@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到江来的个人BLOG
 
 You can use the [editor on GitHub](https://github.com/sakurabbs/sakurabbs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
